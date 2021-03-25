@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_NewsCodingExercise_NewsCodingExerciseUITests : NSObject
+@end
+@implementation PodsDummy_Pods_NewsCodingExercise_NewsCodingExerciseUITests
+@end
